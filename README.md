@@ -7,7 +7,7 @@ Construído com React.JS, utilizado hooks (useState e useEfect), react-icons, mo
 ##### Novo projeto : HTML,CSS,JAVASCRIT,REACT.JS.
 
 ## Recursos
-- Responsivo 100%
+- Não está Responsivo.
 
 ## Links:
 - Projeto:https://weather-app-sage-psi.vercel.app/
